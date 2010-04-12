@@ -4,7 +4,7 @@
 bcalc.py
 
 Created by Colin Wheeler on 2009-02-08.
-Copyright (c) 2009 Niblonian Soft. All rights reserved.
+Copyright (c) 2009 Colin Wheeler. All rights reserved.
 """
 
 import sys
